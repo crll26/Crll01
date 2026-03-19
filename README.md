@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  PhD Student @ UNR · Healthcare Informatics · HCI · AI in Healthcare
+  PhD Student · Healthcare Informatics · HCI · AI in Healthcare
 </p>
 
 ---
