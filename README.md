@@ -1,7 +1,7 @@
 <h1 align="center">🌍</h1>
 
 <p align="center">
-  “a force of mind and circumstance.”
+  Ph.D Studtent ; Medical AI / HCI
 </p>
 
 ---
