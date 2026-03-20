@@ -1,7 +1,7 @@
 <h1 align="center">🌍</h1>
 
 <p align="center">
-  Ph.D Studtent ; Healthcare Informatics / HCI
+  Ph.D Studtent ; Healthcare Informatics / HCI / AI Trust 
 </p>
 
 ---
